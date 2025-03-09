@@ -49,9 +49,9 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: [' Feliz dia de la mujer', ' Aranza!', config.name],
-      charSize: 30,
-      charSpacing: 22,
+      strings: ['FELIZ DIA', ' ARANZA!', config.name],
+      charSize: 33,
+      charSpacing: 28,
       lineHeight: 40,
       
 
